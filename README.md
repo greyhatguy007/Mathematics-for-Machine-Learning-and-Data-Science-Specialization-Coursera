@@ -1,6 +1,7 @@
 # Mathematics for Machine Learning and Data Science Specialization - Coursera
 
-![course-image](/title-banner.png)
+![title-banner](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/assets/77543865/42742826-89a3-41c4-aa6a-6d0f83b260b6)
+
 
 Contains Solutions and Notes for the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/learn/machine-learning-probability-and-statistics) by Luis Serrano on Coursera.
 
