@@ -5,7 +5,13 @@
 
 Contains Solutions and Notes for the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/learn/machine-learning-probability-and-statistics) by Luis Serrano on Coursera.
 
+<hr/>
+
+<br/>
+
 ## Course 1 : [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra)
+
+<br/>
 
 - [Week 1](/C1/w1/)
     
@@ -14,3 +20,11 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
     - [Practice Quiz - Solving Systems of Linear Equations](/C1/w1/pq1/)
     - [Graded Quiz - Matrices](/C1/w1/q1/)
     - [Lecture Materials](/C1/w1/C1w1notes.pdf)
+
+<br/>
+
+- [Week 2](/C1/w2/)
+    - [Ungraded Lab - Solving Linear Systems : 3 Variables](/C1/w2/C1w2_ungraded_lab.ipynb)
+    - [Graded Quiz - The Rank of a Matrix](/C1/w2/q1/)
+    - [Programming Assignment - System of Linear Equations](/C1/w2/C1w2_graded_lab/)
+    - [Notes](/C1/w2/C1w2notes.pdf)
