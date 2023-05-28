@@ -38,3 +38,4 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
     - [Practice Quiz - Vector operations: Sum, difference, multiplication, dot product](/C1/w3/pq1)
     - [Graded Quiz - Vector and Matrix Operations, Types of Matrices](/C1/w3/q1/)
     - [Programming Assignment - Single Perceptron Neural Networks for Linear Regression](/C1/w3/C1w3_graded_lab/)
+    - [Lecture Materials](/C1/w3/C1w3notes.pdf)
