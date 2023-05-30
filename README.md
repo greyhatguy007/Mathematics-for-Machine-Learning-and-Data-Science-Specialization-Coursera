@@ -44,7 +44,7 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
 
 - [Week 4](/C1/w4/)
     - [Graded Quiz - Eigenvalues and Eigenvectors](/C1/w4/q1/)
-    - [Programming Assignment](/C1/w4/C1w4_graded_lab/)
+    - [Programming Assignment - Eigenvalues and Eigenvectors](/C1/w4/C1w4_graded_lab/)
     - [Lecture Materials](/C1/w4/C1w4notes.pdf)
 
 <br/>
@@ -63,12 +63,18 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
     - [Practice Quiz - Derivatives](/C2/w1/pq1/)
     - [Ungraded Lab - Differentiation in Python](/C2/w1/C2_W1_Lab_1_differentiation_in_python.ipynb)
     - [Graded Quiz - Derivatives and Optimization](/C2/w1/q1/)
-    - [Programming Assignment](/C2/w1/C2w1_graded_lab/)
+    - [Programming Assignment - Optimizing Functions of One Variable: Cost Minimization](/C2/w1/C2w1_graded_lab/)
     - [Lecture Materials](/C2/w1/C2w1notes.pdf)
 
 <br/>
 
 - [Week 2](/C2/w2/)
+    - [Practice Quiz - Partial Derivatives and Gradient](/C2/w2/pq1/)
+    - [Ungraded Lab - Optimization Using Gradient Descent in One Variable](/C2/w2/lab/C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb)
+    - [Ungraded Lab - Optimization Using Gradient Descent in Two Variables](/C2/w2/lab/C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
+    - [Graded Quiz - Partial Derivatives and Gradient Descent](/C2/w2/q1/)
+    - [Programming Assignment - Optimization Using Gradient Descent: Linear Regression](/C2/w2/C2w2_graded_lab/)
+    - [Lecture Materials](/C2/w2/C2w2notes.pdf)
 
 <br/>
 
