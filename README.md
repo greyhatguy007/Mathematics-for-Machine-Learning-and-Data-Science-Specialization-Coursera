@@ -90,3 +90,7 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
 
 
 <br/>
+
+### [Certificate Of Completion](https://coursera.org/share/5fa3a336a4fdfcb89879b8b828f8abbe)
+
+<hr/>
