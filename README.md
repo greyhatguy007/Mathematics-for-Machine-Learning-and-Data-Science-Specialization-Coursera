@@ -118,3 +118,10 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
     - [Optional Lab - Sampling data from different distribution and studying the distribution of sample mean](/C3/w3/lab/)
     - [Practice Quiz](/C3/w3/pq1/)
     - [Graded Quiz - Summative Quiz](/C3/w3/q1/)
+
+<br/>
+
+- [Week 4](/C3/w4/)
+    - [Practice Quiz](/C3/w4/pq1/)
+    - [Graded Quiz - Summative Quiz](/C3/w4/q1/)
+    - [Programming Assignment: A/B Testing](/C3/w4/C3w4_graded_lab/)
