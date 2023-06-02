@@ -111,3 +111,10 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
     - [Optional Lab - Summary statistics and visualization of data sets](/C3/w2/lab/ugl_datasets.ipynb)
     - [Optional Lab - Dice Simulations](/C3/w2/lab/C3_W2_Lab_2_Dice_Simulations.ipynb)
     - [Programming Assignment: Loaded Dice](/C3/w2/C3w2_graded_lab/)
+
+<br/>
+
+- [Week 3](/C3/w3/)
+    - [Optional Lab - Sampling data from different distribution and studying the distribution of sample mean](/C3/w3/lab/)
+    - [Practice Quiz](/C3/w3/pq1/)
+    - [Graded Quiz - Summative Quiz](/C3/w3/q1/)
