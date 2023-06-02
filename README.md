@@ -94,3 +94,16 @@ Contains Solutions and Notes for the [Mathematics for Machine Learning and Data 
 ### [Certificate Of Completion](https://coursera.org/share/5fa3a336a4fdfcb89879b8b828f8abbe)
 
 <hr/>
+
+<br/>
+
+## Course 3 : [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
+
+<br/>
+
+- [Week 1](/C3/w1/)
+    - [Ungraded Lab - Birthday Problems](/C3/w1/lab/C3_W1_Lab_2_Birthday_Problems.ipynb)
+    - [Practice Quiz](/C3/w1/pq1/)
+    - [Graded Quiz - Summative quiz](/C3/w1/q1/)
+    - [Programming Assignment: Probability Distributions / Naive Bayes](/C3/w1/C3w1_graded_lab/)
+    
